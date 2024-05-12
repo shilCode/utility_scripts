@@ -47,8 +47,6 @@ winget install --id=Postman.Postman  -e
 Write-Host "Postman Installed."
 winget install --id=PostgreSQL.pgAdmin  -e
 Write-Host "PGAdmin Installed."
-# all done, happy hacking!
-Write-Host "Software installation completed."
 
-# Stop transcript to end logging
-Stop-Transcript
+Write-Host "all done, happy hacking! 😀"
+Write-Host "Software installation completed."
